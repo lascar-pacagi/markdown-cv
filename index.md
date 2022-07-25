@@ -19,8 +19,8 @@ Tél: 0768788359
 ---------------------
 
 ## Concours
-- **mai 2012** Gagnant, avec Cédric Andreolli, du concours Intel **Accelerate your code** (1/500 sur le total des points)
-- **novembre 2011** Gagnant, avec Cédric Andreolli, du concours Intel **Accelerate your code** (1/130)
+- **mai 2012** Gagnant, avec Cédric Andreolli, du concours **Intel Accelerate your code** (1/500 sur le total des points)
+- **novembre 2011** Gagnant, avec Cédric Andreolli, du concours **Intel Accelerate your code** (1/130)
 
 ---------------------
 
