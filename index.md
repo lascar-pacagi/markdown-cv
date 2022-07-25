@@ -46,7 +46,7 @@ Tél: 0768788359
     - [Mini Java](https://github.com/lascar-pacagi/MiniJava)
     - [Mini C](https://github.com/lascar-pacagi/mini-c)
     - [Mini ML](https://github.com/lascar-pacagi/MlToBytecode)
-    - [Vidéos Mini Ml](https://www.youtube.com/watch?v=F9MhBISX10s&list=PLtBfb4Y2n-pTaqWscPpHwskBHOxdQHiHY)
+    - [Vidéos Mini ML](https://www.youtube.com/watch?v=F9MhBISX10s&list=PLtBfb4Y2n-pTaqWscPpHwskBHOxdQHiHY)
     - [Interpréteur Prolog](https://github.com/lascar-pacagi/Prolog)
     - [Expressions régulières](https://github.com/lascar-pacagi/regex)
     - [Site web](https://www.mrcoder.org/fr/)
